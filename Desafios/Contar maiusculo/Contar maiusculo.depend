@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573051194 source:c:\users\1170928\desktop\ada\contar maiusculo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
